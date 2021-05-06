@@ -1,7 +1,3 @@
-# NYC-Restaurant-grades
-
-
-
 # Motivations:
 The purpose of this interactive dashboard is to provide information on recent inspection results. I created this tool to quickly visualize NYC restaurant grades.
 
